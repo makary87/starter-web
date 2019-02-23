@@ -15,3 +15,8 @@ Example 3
 Example 4
 
 ## How To Contribute
+
+
+### Copyright
+
+2018 Training
