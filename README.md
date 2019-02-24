@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple project
+This is a simple project + Example 6
 
 ## Introduction
 
