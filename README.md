@@ -4,7 +4,7 @@ This is a simple project + Example 6 + Example 7
 
 ## Introduction
 
-Example 2
+EXAMPLE 10
 
 ## Purpose
 
